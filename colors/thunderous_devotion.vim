@@ -6,13 +6,13 @@ if exists('syntax_on')
     syntax reset
 endif
 
-" RAISEN!!!
-let g:colors_name = 'raisen'
+" Thunderous Devotion
+let g:colors_name = 'thunderous_devotion'
 
 " Normal
 hi Normal ctermbg=234 ctermfg=252 guibg=#1c1c1c guifg=#f2f2f2
 hi Whitespace ctermfg=236 guifg=#242940
-hi Directory ctermfg=109 guifg=#7776d2
+hi Directory ctermfg=109 guifg=#9876d2
 
 " Line
 hi LineNr ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#bd9700
@@ -52,35 +52,35 @@ hi Comment ctermfg=242 guifg=#706c8a
 
 " Typing
 hi Constant ctermfg=140 guifg=#c1617b
-hi String ctermfg=109 guifg=#6a6ad5
+hi String ctermfg=109 guifg=#806ad5
 hi Character ctermfg=110 guifg=#f95d4b
 hi Number ctermfg=110 guifg=#f95d4b
-hi Boolean ctermfg=110 guifg=#643dc5
+hi Boolean ctermfg=110 guifg=#8d3dc5
 hi Float ctermfg=110 guifg=#f95d4b
 
 " Variable and function name
-hi Identifier cterm=NONE ctermfg=109 guifg=#643dc5
-hi Function ctermfg=110 guifg=#8070c7
+hi Identifier cterm=NONE ctermfg=109 guifg=#8d3dc5
+hi Function ctermfg=110 guifg=#975ec7
 
 " Statement
 hi Statement ctermfg=110 gui=NONE guifg=#e2b811
 hi Conditional ctermfg=110 guifg=#bd9700
 hi Repeat ctermfg=110 guifg=#bd9700
 hi Label ctermfg=110 guifg=#bd9700
-hi Operator ctermfg=110 guifg=#8070c7
+hi Operator ctermfg=110 guifg=#975ec7
 hi Keyword ctermfg=110 guifg=#bd9700
 hi Exception ctermfg=110 guifg=#bd9700
 
 " PreProc
-hi PreProc ctermfg=150 guifg=#8070c7
-hi Include ctermfg=110 guifg=#8070c7
-hi Define ctermfg=110 guifg=#8070c7
+hi PreProc ctermfg=150 guifg=#975ec7
+hi Include ctermfg=110 guifg=#975ec7
+hi Define ctermfg=110 guifg=#975ec7
 
 " Types
-hi Type ctermfg=110 gui=NONE guifg=#643dc5
+hi Type ctermfg=110 gui=NONE guifg=#8d3dc5
 hi StorageClass ctermfg=110 guifg=#e2b811
-hi Structure ctermfg=110 guifg=#643dc5
-hi Typedef ctermfg=110 gui=NONE guifg=#643dc5
+hi Structure ctermfg=110 guifg=#8d3dc5
+hi Typedef ctermfg=110 gui=NONE guifg=#8d3dc5
 
 " Special
 hi Special ctermfg=150 guifg=#f95d4b
@@ -121,8 +121,8 @@ hi TabLineSel cterm=NONE ctermbg=234 ctermfg=252 gui=NONE guibg=#2e3540 guifg=#f
 hi visual cterm=NONE ctermbg=235 ctermfg=NONE guibg=#353b58 guifg=NONE
 hi visualnos cterm=NONE ctermbg=235 ctermfg=NONE guibg=#353b58 guifg=NONE
 
-" Cool highlighting -w-
-hi Title ctermfg=216 gui=NONE guibg=#2b2245 guifg=#e1e1e6
+" Cool highlight -w-
+hi Title ctermfg=216 gui=NONE guibg=#3a2245 guifg=#e1e1e6
 hi Todo ctermbg=234 ctermfg=150 guibg=#f2f2f2 guifg=#e2b811
 
 " Git Gutter
