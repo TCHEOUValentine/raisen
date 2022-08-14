@@ -5,7 +5,7 @@
 
 A simple colorscheme I made :3
 
-I hope you will like it
+I hope you will like it!
 
 ## Inspirations
 
