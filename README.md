@@ -13,6 +13,8 @@ I hope you will like it!
 ## Inspiration
 It is inspired by the color palette of my genshin main uwu
 
+There is a purple variation because it is a pretty color :3
+
 ## Base code
 The colorscheme base is the amazing [iceberg theme](https://github.com/cocopon/iceberg.vim) of [cocopon](https://github.com/cocopon) but I made a lot of changes and additions to it thanks to the [documentation](http://vimdoc.sourceforge.net/htmldoc/syntax.html).
 
