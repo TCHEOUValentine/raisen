@@ -3,11 +3,18 @@
 
 ## What is this ?
 
-A simple colorscheme I made :3 (mainly to code in C)
+A simple colorscheme I made :3
+
+I hope you will like it
+
+## Inspirations
 
 It is inspired by the color palette of my genshin main uwu
 
-I hope you will like it!
+## Making of the RAISEN theme
+The colorscheme base is the amazing [iceberg theme](https://github.com/cocopon/iceberg.vim) of [cocopon](https://github.com/cocopon) but I made a lot of changes and additions to it thanks to the [documentation](http://vimdoc.sourceforge.net/htmldoc/syntax.html).
+
+The airline theme base is the awesome [minimalist theme](https://github.com/vim-airline/vim-airline-themes/blob/master/autoload/airline/themes/minimalist.vim). I changed some colors but almost all of the code is from this file.
 
 ## ScreenshOwOt
 
