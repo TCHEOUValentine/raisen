@@ -8,7 +8,9 @@ A simple colorscheme I made :3
 I hope you will like it!
 
 ## ScreenshOwOt
-![](screenshot.png)
+![](screenshots/raisen.png)
+
+![](screenshots/thunderous_devotion.png)
 
 ## Inspiration
 It is inspired by the color palette of my genshin main uwu
