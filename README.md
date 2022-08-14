@@ -9,7 +9,7 @@ They are inspired by the color palette of my genshin main uwu
 
 I hope you will like them!
 
-## ScreenshOwOt
+## ScreenshOwOts
 ![](screenshots/raisen.png)
 
 ![](screenshots/thunderous_devotion.png)
