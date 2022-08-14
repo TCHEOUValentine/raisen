@@ -14,7 +14,7 @@ I hope you will like them!
 
 ![](screenshots/thunderous_devotion.png)
 
-## The colorscheme does not work
+## The colorschemes do not work ?
 Add this line to your `.vimrc` file
 ```
 set termguicolors
