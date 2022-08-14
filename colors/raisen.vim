@@ -15,7 +15,7 @@ hi Whitespace ctermfg=236 guifg=#242940
 hi Directory ctermfg=109 guifg=#7776d2
 
 " Line
-hi LineNr ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#bd9700
+hi LineNr ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#daaf03
 
 " Column
 hi Folded ctermbg=235 ctermfg=245 guibg=#1e2132 guifg=#686f9a
@@ -52,7 +52,7 @@ hi Comment ctermfg=242 guifg=#706c8a
 
 " Typing
 hi Constant ctermfg=140 guifg=#c1617b
-hi String ctermfg=109 guifg=#6a6ad5
+hi String ctermfg=109 guifg=#969edc
 hi Character ctermfg=110 guifg=#f95d4b
 hi Number ctermfg=110 guifg=#f95d4b
 hi Boolean ctermfg=110 guifg=#643dc5
@@ -64,12 +64,12 @@ hi Function ctermfg=110 guifg=#8070c7
 
 " Statement
 hi Statement ctermfg=110 gui=NONE guifg=#e2b811
-hi Conditional ctermfg=110 guifg=#bd9700
-hi Repeat ctermfg=110 guifg=#bd9700
-hi Label ctermfg=110 guifg=#bd9700
+hi Conditional ctermfg=110 guifg=#daaf03
+hi Repeat ctermfg=110 guifg=#daaf03
+hi Label ctermfg=110 guifg=#daaf03
 hi Operator ctermfg=110 guifg=#8070c7
-hi Keyword ctermfg=110 guifg=#bd9700
-hi Exception ctermfg=110 guifg=#bd9700
+hi Keyword ctermfg=110 guifg=#daaf03
+hi Exception ctermfg=110 guifg=#daaf03
 
 " PreProc
 hi PreProc ctermfg=150 guifg=#8070c7
@@ -103,7 +103,7 @@ hi IncSearch cterm=reverse ctermfg=NONE gui=reverse guifg=NONE term=reverse
 hi CtrlPMode1 ctermbg=236 ctermfg=242 guibg=#2e313f guifg=#6b7089
 hi Pmenu ctermbg=236 ctermfg=251 guibg=#3d425b guifg=#c6c8d1
 hi PmenuSbar ctermbg=236 ctermfg=NONE guibg=#3d425b guifg=NONE
-hi PmenuSel ctermbg=240 ctermfg=255 guibg=#1e2132 guifg=#bd9700
+hi PmenuSel ctermbg=240 ctermfg=255 guibg=#1e2132 guifg=#daaf03
 hi PmenuThumb ctermbg=251 ctermfg=NONE guibg=#c6c8d1 guifg=NONE
 
 " Spelling
