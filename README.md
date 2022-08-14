@@ -4,6 +4,7 @@
 ## What is this ?
 
 The first colorschemes I ever made :3
+
 They are inspired by the color palette of my genshin main uwu
 
 I hope you will like them!
