@@ -20,6 +20,7 @@ hi LineNr ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#bd9700
 " Column
 hi Folded ctermbg=235 ctermfg=245 guibg=#1e2132 guifg=#686f9a
 hi FoldColumn ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#444b71
+hi SignColumn ctermbg=235 ctermfg=239 guibg=#25283d
 hi ColorColumn cterm=NONE ctermbg=235 ctermfg=NONE guibg=#1e2132 guifg=NONE
 
 " Cursor
@@ -107,10 +108,10 @@ hi PmenuSel ctermbg=240 ctermfg=255 guibg=#1e2132 guifg=#bd9700
 hi PmenuThumb ctermbg=251 ctermfg=NONE guibg=#c6c8d1 guifg=NONE
 
 " Spelling
-hi SpellBad ctermbg=95 ctermfg=252 gui=undercurl guifg=NONE guisp=#e27878
-hi SpellCap ctermbg=24 ctermfg=252 gui=undercurl guifg=NONE guisp=#84a0c6
-hi SpellLocal ctermbg=23 ctermfg=252 gui=undercurl guifg=NONE guisp=#89b8c2
-hi SpellRare ctermbg=97 ctermfg=252 gui=undercurl guifg=NONE guisp=#a093c7
+hi SpellBad ctermbg=55 ctermfg=252 gui=undercurl guifg=NONE guisp=#e27878
+hi SpellCap ctermbg=55 ctermfg=252 gui=undercurl guifg=NONE guisp=#84a0c6
+hi SpellLocal ctermbg=55 ctermfg=252 gui=undercurl guifg=NONE guisp=#89b8c2
+hi SpellRare ctermbg=55 ctermfg=252 gui=undercurl guifg=NONE guisp=#a093c7
 
 " Tabline
 hi TabLine cterm=NONE ctermbg=233 ctermfg=238 gui=NONE guibg=#1e232b guifg=#f2f2f2
