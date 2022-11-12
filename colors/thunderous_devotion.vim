@@ -124,7 +124,7 @@ hi visualnos cterm=NONE ctermbg=235 ctermfg=NONE guibg=#353b58 guifg=NONE
 
 " Cool highlight -w-
 hi Title ctermfg=216 gui=NONE guibg=#3a2245 guifg=#e1e1e6
-hi Todo ctermbg=234 ctermfg=150 guibg=#f2f2f2 guifg=#e2b811
+hi Todo ctermbg=234 ctermfg=150 guibg=#1c1c1c guifg=#e2b811
 
 " Git Gutter
 hi GitGutterAdd ctermbg=235 ctermfg=150 guibg=#1e2132 guifg=#b4be82
